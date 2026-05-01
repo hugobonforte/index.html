@@ -1,0 +1,25 @@
+body {
+    font-family: 'Pacifico', cursive; /* Familia de fuentes */
+    font-size: 11px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: rgb(45, 52, 54); /* El color del fondo de la página web */
+    color: rgb(18, 18, 18); /* El color del texto*/ 
+    border: 1px solid rgb(255, 255, 255); /* El borde de la página web */
+      -webkit-text-stroke: 1px #48D1CC; /* Para la mayoría de los navegadores modernos */
+  text-stroke: 1px #48D1CC;
+}
+h1 {
+    color: rgb(18, 18, 18); /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: 'Pacifico', cursive; /* La familia tipográfica utilizada en la cabecera */
+    -webkit-text-stroke: 1px #48D1CC; /* Para la mayoría de los navegadores modernos */
+  text-stroke: 1px #48D1CC;
+}
+
+
+h2 {
+    color: rgb(18, 18, 18); /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: 'Pacifico', cursive; /* La familia tipográfica utilizada en la cabecera */
+      -webkit-text-stroke: 1px #48D1CC; /* Para la mayoría de los navegadores modernos */
+  text-stroke: 1px #48D1CC;
+}
